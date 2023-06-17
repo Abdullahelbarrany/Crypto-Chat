@@ -1,4 +1,4 @@
-# EncrypChat
+# Crypto-Chat
 A socket-based chatting app with AES, DES, RSA, and ElGamal encryption methods, enhanced by Diffie-Hellman key exchange for secure communication between clients on separate laptops
 SafeComm - Secure Chatting App with Multiple Encryption Methods
 
